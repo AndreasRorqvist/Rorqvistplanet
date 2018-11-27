@@ -1,2 +1,3 @@
 # Rorqvistplanet
-Art &amp; Blog
+Art and Blog
+http://www.rorqvistplanet.org
